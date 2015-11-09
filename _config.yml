@@ -1,7 +1,7 @@
 name: Noël
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.044115563156083226
+typography_spectrum: 0.2745
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#12587c'
     - '#a1af8f'
   brandStrength: 0.5
-  lightness: 0.44054346065968275
-  saturation: 0.47986058541573584
+  lightness: 0.4375
+  saturation: 0.375
   rhythmicContrast: 0.11627163761295378
 purpose: []
